@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://fintatica.com.br
   - name: API
-    url: https://api.fintatica.com.br/v1/health
+    url: https://api.fintatica.com.br/v1/health?api_key=$API_KEY
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
