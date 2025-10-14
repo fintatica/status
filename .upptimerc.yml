@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fintatica.com.br
-  baseUrl: /
+  # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Fintatica Status Page
   introTitle: "**Fintatica** is turning messy Brazilian market data (CVM/B3/IBGE etc.) into clean, developer-first APIs and bite-size insights."
