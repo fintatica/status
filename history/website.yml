@@ -1,7 +1,7 @@
 url: https://fintatica.com.br
-status: up
-code: 200
-responseTime: 879
-lastUpdated: 2025-11-18T11:39:07.243Z
+status: down
+code: 500
+responseTime: 215
+lastUpdated: 2025-11-18T11:47:33.023Z
 startTime: 2025-09-29T07:31:42.321Z
 generator: Upptime <https://github.com/upptime/upptime>
