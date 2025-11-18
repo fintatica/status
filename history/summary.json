@@ -4,18 +4,20 @@
     "url": "https://fintatica.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/fintatica.com.br.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 581,
-    "timeWeek": 725,
-    "timeMonth": 671,
-    "timeYear": 685,
-    "dailyMinutesDown": {}
+    "time": 677,
+    "timeDay": 490,
+    "timeWeek": 674,
+    "timeMonth": 658,
+    "timeYear": 677,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API",
@@ -24,9 +26,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 486,
@@ -34,7 +36,7 @@
     "timeMonth": 701,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 3
     }
   }
 ]
