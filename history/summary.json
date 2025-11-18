@@ -6,8 +6,8 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
@@ -16,7 +16,7 @@
     "timeMonth": 658,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 2
     }
   },
   {
@@ -24,19 +24,17 @@
     "url": "https://api.fintatica.com.br/v1/health?api_key=$API_KEY",
     "icon": "https://icons.duckduckgo.com/ip3/api.fintatica.com.br.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 486,
-    "timeWeek": 676,
-    "timeMonth": 701,
-    "timeYear": 705,
-    "dailyMinutesDown": {
-      "2025-11-18": 3
-    }
+    "time": 707,
+    "timeDay": 554,
+    "timeWeek": 690,
+    "timeMonth": 704,
+    "timeYear": 707,
+    "dailyMinutesDown": {}
   }
 ]
