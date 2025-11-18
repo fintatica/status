@@ -4,19 +4,19 @@
     "url": "https://fintatica.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/fintatica.com.br.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 505,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.85%",
+    "time": 670,
+    "timeDay": 515,
+    "timeWeek": 645,
+    "timeMonth": 649,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 106
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.fintatica.com.br/v1/health?api_key=$API_KEY",
     "icon": "https://icons.duckduckgo.com/ip3/api.fintatica.com.br.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 513,
-    "timeWeek": 658,
-    "timeMonth": 693,
-    "timeYear": 701,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.85%",
+    "time": 698,
+    "timeDay": 518,
+    "timeWeek": 649,
+    "timeMonth": 689,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 106
     }
   }
 ]
