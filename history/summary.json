@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 666,
-    "timeDay": 612,
-    "timeWeek": 648,
-    "timeMonth": 664,
-    "timeYear": 666,
+    "time": 669,
+    "timeDay": 880,
+    "timeWeek": 681,
+    "timeMonth": 675,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2025-11-18": 17
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fintatica.com.br.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 685,
-    "timeDay": 750,
-    "timeWeek": 673,
-    "timeMonth": 692,
-    "timeYear": 685,
+    "uptimeYear": "99.98%",
+    "time": 688,
+    "timeDay": 852,
+    "timeWeek": 707,
+    "timeMonth": 693,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-11-18": 21
     }
