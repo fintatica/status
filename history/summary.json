@@ -25,19 +25,20 @@
     "url": "https://api.fintatica.com.br/v1/health?api_key=$API_KEY",
     "icon": "https://icons.duckduckgo.com/ip3/api.fintatica.com.br.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 545,
-    "timeWeek": 741,
-    "timeMonth": 707,
-    "timeYear": 696,
+    "time": 694,
+    "timeDay": 358,
+    "timeWeek": 670,
+    "timeMonth": 691,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-11-18": 21
+      "2025-11-18": 21,
+      "2026-08-05": 0
     }
   }
 ]
