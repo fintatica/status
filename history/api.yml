@@ -1,7 +1,7 @@
 url: https://api.fintatica.com.br/v1/health?api_key=$API_KEY
 status: up
 code: 200
-responseTime: 895
-lastUpdated: 2026-09-24T01:08:29.396Z
+responseTime: 566
+lastUpdated: 2026-09-25T01:10:04.482Z
 startTime: 2025-09-29T07:31:43.322Z
 generator: Upptime <https://github.com/upptime/upptime>
